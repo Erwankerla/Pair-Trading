@@ -5,7 +5,7 @@ Ce projet implémente une stratégie de **pair trading statistique** sur cryptom
 📄 Une description complète de la méthode (récupération des données, tests, stratégie, calibration) est disponible dans le document `Pair_Trading.pdf`.
 
 ---
-## 🧠 Détail du Code
+## Détail du Code
 
 - `BinanceData.py` : collecte les données OHLCV depuis l’API Binance, les nettoie, les aligne et les sépare en jeu de **test** et de **backtest**.
 - `TestResiduals.py` : sélectionne les **paires coïntégrées** via des régressions linéaires et des tests de **stationnarité** (ADF). Stocke les résidus, les coefficients et les statistiques.
