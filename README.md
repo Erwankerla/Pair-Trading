@@ -1,6 +1,6 @@
 # Stratégie de Pair Trading sur Cryptomonnaies
 
-Ce projet implémente une stratégie de **pair trading statistique** sur cryptomonnaies basée sur la **coïntégration**. Il repose sur l'analyse des résidus de régressions linéaires entre paires d’actifs, la **normalisation des signaux**, et l'**optimisation des seuils** d'entrée et de sortie à l'aide d'une calibration cherchant à maximiser la performance du portefeuil.
+Ce projet implémente une stratégie de **pair trading statistique** sur cryptomonnaies basée sur la **coïntégration**. Il repose sur l'analyse des résidus de régressions linéaires entre paires d’actifs, la **normalisation des signaux**, et l'**optimisation des seuils** d'entrée et de sortie à l'aide d'une calibration cherchant à maximiser la performance du portefeuille.
 
 📄 Une description complète de la méthode (récupération des données, tests, stratégie, calibration) est disponible dans le document `Pair_Trading.pdf`.
 
